@@ -32,7 +32,7 @@ Em desenvolvimento...
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Como entrar em contato
 
 - **GitHub**: [@Fabenelli](https://github.com/Fabenelli)
 - **Email**: fabricio.benelli.nascimento@escola.pr.gov.br
