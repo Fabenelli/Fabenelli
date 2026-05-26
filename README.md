@@ -35,7 +35,7 @@ Em desenvolvimento...
 ## 📫 Como me encontrar
 
 - **GitHub**: [@Fabenelli](https://github.com/Fabenelli)
-- **Email**: [Adicione seu email aqui]
+- **Email**: [fabricio.benelli.nascimento@escola.pr.gov.br]
 - **LinkedIn**: [Adicione seu perfil aqui]
 
 ---
