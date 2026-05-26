@@ -61,4 +61,4 @@ Em desenvolvimento...
 ---
 
 **Obrigado por visitar meu perfil! 🙏**
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBidHJ6N2l2cGxyNnNoYTA5a3NzcHpueDZhanZlNzNjNHpmNG95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif
+![gatin](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBidHJ6N2l2cGxyNnNoYTA5a3NzcHpueDZhanZlNzNjNHpmNG95eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qDOI1FqYEyTxkW0MEI/giphy.gif)
