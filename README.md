@@ -32,13 +32,6 @@ Em desenvolvimento...
 
 ---
 
-## 📫 Como entrar em contato
-
-- **GitHub**: [@Fabenelli](https://github.com/Fabenelli)
-- **Email**: fabricio.benelli.nascimento@escola.pr.gov.br
-
----
-
 ## 🎯 Meus objetivos
 
 - ✅ Completar cursos de formação na Alura
